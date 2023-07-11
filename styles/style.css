@@ -1,0 +1,229 @@
+/* header */
+.header{
+    padding-left: 120px;
+    background-color: #E554731A;
+    border:0px;
+    margin-bottom: 5px;
+    display:flex;
+    justify-content: space-between;
+    padding-right: 120px;
+    padding-top: 20px;
+    
+}
+.first-heading{
+    width: 708px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 67px;
+    font-style: normal;
+    font-weight: 750px;
+    margin-bottom: 10px;
+
+}
+.first-description{
+    width:550px;
+    margin-top: 0px;
+    padding-top: 0%;
+    font-size:17px;
+}
+.first-image{
+    width: 450px;
+    height: 600px;
+}
+.button{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-bottom: 35px;
+    color:white;
+}
+/* main part */
+.bonus{
+   text-align: center;
+   margin:100px;
+}
+.heading{
+    font-size: 50px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.two-description{
+    width: 580px;
+    display: inline-flex;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.extra{
+    display:flex;
+    margin:0px 80px 10px 80px;
+    justify-content: space-evenly; 
+    text-align: center;
+    justify-items: center;
+    margin-top: 0px;
+}
+.extra-one, .extra-two, .extra-three{
+    width: 420px;
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-right: 5px;
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+.one,.two,.three{
+    width: 420px;
+    height: 450px;
+    margin-top: 50px;
+    margin-right: 100px;
+    padding-right: 100px;
+}
+/* Hot deal offer */
+.deal{
+    display:flex;
+    justify-content: center;
+    height: 580px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 150px;
+    margin-bottom:50px;
+    text-align: center;
+}
+.heading-two{
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 35%;
+    margin-right:80x;
+}
+.description-three{
+    width: 594px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.button-two{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-bottom: 35px;
+}
+.photo-one{
+    margin-top:100px;
+    margin-left:100px;
+}
+#red{
+    color:red;
+}
+/* instragram related box */
+.instragram{
+    text-align: center;
+}
+.heading-three{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom:0px;
+}
+.description-four{
+        width: 594px;
+        font-size: 18px;
+        font-weight: 400;
+        display: flex;
+        justify-content: center;
+        margin-left: 30%;
+        margin-bottom:40px;
+    }
+ .all-photo{
+        display: flex;
+        margin: 0px 80px 0px 80px;
+    }
+    .photo-two{
+        width: 342px;
+        height: 396px;
+        margin:8px;
+    }
+    .photo-three{
+        width: 342px;
+        height: 396px;
+        margin:8px;
+    }
+    .photo-four{
+        width: 342px;
+        height: 396px;
+        margin:8px;
+    }
+    .photo-five{
+        width: 342px;
+        height: 396px;
+        margin:8px;
+    }
+    .latest-deals{
+        width: 1420px;
+        height: 449px;
+        background: url("Rectangle 9.png"), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+        text-align: center;
+        margin: 100px 100px 50px 80px;
+        justify-items: center;
+    }
+    .heading-four{
+        text-align: center;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        margin-top: 100px;
+        padding-top: 120px;
+        margin-bottom: 10px;
+    }
+   
+    .search{
+        margin-top:70px;
+    }
+    #email{
+        width: 600px;
+        height:58px;
+        border-radius: 8px;
+        background: #FFF;
+        border:0px;
+        
+    }
+.btn-three{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    width: 150px;
+    height: 58px;
+    border-radius: 8px;
+    background: #E55473;
+    border:0px;
+
+}
+.last{
+    height: 449px;
+    background: black;
+    border: 0px;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+}
+.heading-last{
+    padding-top:150px;
+    font-size: 48px;
+    font-weight: 800;
+}
+.shop-color{
+    color:#E55473;
+}
+.description-last{
+    width: 625px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+      margin-left:30%; 
+}
